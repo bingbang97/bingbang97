@@ -26,7 +26,7 @@
 
 <br><br>
   
-<div align="ceter">
+<div align="center">
   📖 Github Stats 📖<br>
   <img src="https://github-readme-stats.vercel.app/api?username=bingbang97&show_icons=true"><br><br>
 </div>
