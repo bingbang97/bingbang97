@@ -28,5 +28,9 @@
   
 <div align="center">
   📖 Github Stats 📖<br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bingbang97&show_icons=true"><br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=bingbang97&show_icons=true&theme=aura"><br><br>
+  
+  📖 Top Langs 📖<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbang97&layout=compact&theme=aura"><br><br>
 </div>
