@@ -35,3 +35,6 @@
   📖 Top Langs 📖<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbang97&layout=compact&theme=aura"><br><br>
 </div>
+
+
+![snake gif](https://github.com/bingbang97/bingbang97/blob/output/github-contribution-grid-snake.svg)
