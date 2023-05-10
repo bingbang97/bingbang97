@@ -32,8 +32,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=bingbang97&show_icons=true&theme=dark"><br><br>
   
-  📖 Top Langs 📖<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbang97&layout=compact&theme=dark"><br><br>
+<!--   📖 Top Langs 📖<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingbang97&layout=compact&theme=dark"><br><br> -->
 </div>
 
 
