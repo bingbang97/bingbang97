@@ -38,6 +38,8 @@
 
 
 <!-- ![snake gif](https://github.com/bingbang97/bingbang97/blob/output/github-contribution-grid-snake.svg) -->
+<div align="center">
 📖 포토폴리오 📖
-<
+<br><br>
 https://juicy-wolfsbane-755.notion.site/Constructive-Developer-840fad2afffe4ad3aa13a4319fcff83f?pvs=4
+</div>
