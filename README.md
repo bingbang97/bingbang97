@@ -37,7 +37,7 @@
 </div>
 
 
-<!-- ![snake gif](https://github.com/bingbang97/bingbang97/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/bingbang97/bingbang97/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
 📖 포토폴리오 📖
 <br><br>
