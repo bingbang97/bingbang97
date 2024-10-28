@@ -8,6 +8,7 @@
 - 2013.03 ~ 2015.02 경산과학고등학교 졸업
 - 2015.03 ~ 2022.08 성균관대학교 전자전기공학부 졸업
 - 2022.08 ~ 2023.06 삼성청년 소프트웨어 아카데미 8기
+- 2023.09 ~ 2024.08 포스트랩
 <br><br>
 
 <div align="center">
@@ -21,7 +22,8 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </div>
 
 
@@ -38,8 +40,4 @@
 
 
 ![snake gif](https://github.com/bingbang97/bingbang97/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-📖 포토폴리오 📖
-<br><br>
-https://juicy-wolfsbane-755.notion.site/Constructive-Developer-840fad2afffe4ad3aa13a4319fcff83f?pvs=4
-</div>
+
